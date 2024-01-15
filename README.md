@@ -1,5 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru8079&theme=tokyonight)
-
 ### About Me:
 I'm a infrastructure engineer from Japan.
 
@@ -12,6 +10,7 @@ I'm a infrastructure engineer from Japan.
 #### Communications & Development Environment:
 ![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bash,vim,figma,md) and something others...
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikaru8079&theme=tokyonight)
 [![hikaru8079's github stats](https://github-readme-stats.vercel.app/api?username=hikaru8079&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/hikaru8079/)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=hikaru8079&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=hikaru8079&theme=tokyonight)
 
