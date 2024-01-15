@@ -3,7 +3,6 @@
 ### About Me:
 
 Language:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=hikaru8079)
 ![](https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,c,cs,dotnet,py)
 
 Infrastructure:
